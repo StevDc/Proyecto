@@ -62,7 +62,7 @@ El dataset contiene transacciones detalladas de ventas, incluyendo:
 
 # Autor 
 
-Bryan Steven De la Cruz Cayao 
+Bryan Steven De la cruz Cayao 
 Estudiante de Ingeniería de Sistemas computacionales
 
 **PROYECTO REALIZADO CON FINES DE APRENDIZAJE Y PORTAFOLIO**
